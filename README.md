@@ -1,5 +1,7 @@
 <p align="left"> <a href="https://twitter.com/jiddane_yassine" target="blank"><img src="https://img.shields.io/twitter/follow/jiddane_yassine?logo=twitter&style=for-the-badge" alt="jiddane_yassine" /></a> </p>
-<img align="right" alt="Coding" width="400" src="Y2lkPTc5MGI3NjExY3M5Y2xwdWxlbGtuZG1zYTB6cndrbXBmNXVsMTY3cHZsbWpyZnY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw">
+(img align="right" alt="Coding" width="400" src="Y2lkPTc5MGI3NjExY3M5Y2xwdWxlbGtuZG1zYTB6cndrbXBmNXVsMTY3cHZsbWpyZnY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw")
+
+
 - 👋 Hi, I’m @jiddaney
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning js css php c c++
