@@ -1,5 +1,5 @@
 <p align="left"> <a href="https://twitter.com/jiddane_yassine" target="blank"><img src="https://img.shields.io/twitter/follow/jiddane_yassine?logo=twitter&style=for-the-badge" alt="jiddane_yassine" /></a> </p>
-<img align="right" alt="Coding" width="400" src="<iframe src=<"https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
 
 
 - 👋 Hi, I’m @jiddaney
